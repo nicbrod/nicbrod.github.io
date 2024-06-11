@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Nicolas Brodeur (test2)
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nicolas
+last_name: Brodeur
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctorant en Physique
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Université d'Ottawa
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:brodeur.nico@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -42,18 +42,18 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.ca/citations?hl=fr&user=ip6xGCcAAAAJ&view_op=list_works&gmla=AOAOcb2xqXw5VOuQ-2cSiQRzUsCtCut9_oiDcoZAwQiYHvSwZdrbJDzcGCq1ibcHspKM_FYvBdmiWpU0CYFEC1jIx64wFyBOr67CPscVoWIdVOz3jw
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Thermodynamique du vivant
+  - Origine de la vie
+  - Physique médicale
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD en Physique
+    institution: Université d'Ottawa
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc en Sciences des Radiations et Imagerie Biomédicale
+    institution: Université de Sherbrooke
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc en Physique
+    institution: Université de Montréal
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nicolas Brodeur is currently a PhD candidate in Physics at the University of Ottawa working on the physics of complex living systems with clinical applications for disease and cancer research. M. Brodeur holds a master’s degree in radiation science and biomedical imaging where he studied the interaction of low-energy electrons with DNA for radiotherapy treatments. He is also deeply passionate about teaching and science communication. In his free time, he enjoys playing music, making mead and spending time with his family.
