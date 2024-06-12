@@ -66,8 +66,8 @@ education:
     date_start: 2015
     date_end: 2011
     summary: |
-      
-#      GPA: 3.8/4.0
+      Développements expérimentaux pour le calcul des section efficace des dommages à l'ADN par des électrons de basses énergies.
+      GPA: 3.8/4.0
 
       Courses included:
       - Radiobiologie moléculaire
