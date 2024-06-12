@@ -1,7 +1,11 @@
 ---
-title: First place in uOGRADflix!
+title: Grand gagnant du concours uOGRADflix!
+summary: Concours de vulgarisation
 date: 2024-06-01
-external_link: [https://github.com/pandas-dev/pandas](https://www.uottawa.ca/fr/toutes-nouvelles/rendre-recherche-accessible-passionnante-jeune-chercheur-brille-au-concours)
+authors:
+  - admin
+
+external_link: https://www.uottawa.ca/fr/toutes-nouvelles/rendre-recherche-accessible-passionnante-jeune-chercheur-brille-au-concours
 tags:
   - uOGRADflix
 ---
