@@ -34,13 +34,13 @@ profiles:
     url: 'mailto:brodeur.nico@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/BrodeurNicolas
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/nicbrod
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/nicolas-brodeur-bb4782193/
   - icon: academicons/google-scholar
     url: https://scholar.google.ca/citations?hl=fr&user=ip6xGCcAAAAJ&view_op=list_works&gmla=AOAOcb2xqXw5VOuQ-2cSiQRzUsCtCut9_oiDcoZAwQiYHvSwZdrbJDzcGCq1ibcHspKM_FYvBdmiWpU0CYFEC1jIx64wFyBOr67CPscVoWIdVOz3jw
   - icon: academicons/orcid
