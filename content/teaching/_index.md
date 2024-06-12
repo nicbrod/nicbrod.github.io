@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Enseignement
 summary: teaching
 type: landing
 
