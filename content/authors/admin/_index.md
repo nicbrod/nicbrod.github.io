@@ -46,32 +46,33 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+Intérêts:
   - Thermodynamique du vivant
   - Origine de la vie
   - Physique médicale
 
-education:
-  - area: PhD en Physique
+Éducation:
+  - area: PhD en Physique (en cours)
     institution: Université d'Ottawa
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018
+    date_end: 2015
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+       Régulation thermodynamique des êtres vivants avec applications cliniques (e.g., cancer, diabètes)
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: MSc en Sciences des Radiations et Imagerie Biomédicale
     institution: Université de Sherbrooke
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015
+    date_end: 2011
     summary: |
-      GPA: 3.8/4.0
+      
+#      GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Radiobiologie moléculaire
+      - Chimie des radiations
+      - Physique médicale
   - area: BSc en Physique
     institution: Université de Montréal
     date_start: 2016-01-01
@@ -79,10 +80,6 @@ education:
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
