@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Ma recherche'
       subtitle: ''
       text: |-
         Analyse expérimentale et modélisation numérique de la régulation thermodynamique des êtres vivants et de l’évolution des maladies (p.ex., cancer). Je m’intéresse à l’origine physique et à la complexité du vivant.
@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Publications Importantes
       filters:
         folders:
           - publication
@@ -53,7 +53,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications Recentes
       text: ""
       filters:
         folders:
