@@ -53,7 +53,7 @@ tags:
 # publication: In *Hugo Blox Builder Conference*
 # publication_short: In *ICW*
 
-Texte test hihi
+# Texte test hihi
 
 # Summary. An optional shortened abstract.
 summary: Paper that introduces the physical description of entropy in humans
