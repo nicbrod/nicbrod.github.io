@@ -57,7 +57,7 @@ education:
     date_start: 2018-05-01
     date_end: 2024-12-10
     summary: |
-       Régulation thermodynamique des êtres vivants avec applications cliniques (e.g., cancer, diabètes)
+       Régulation thermodynamique des êtres vivants avec applications cliniques (e.g., cancer, diabetes)
   - area: MSc en Sciences des Radiations et Imagerie Biomédicale
     institution: Université de Sherbrooke
     date_start: 2015-05-01
