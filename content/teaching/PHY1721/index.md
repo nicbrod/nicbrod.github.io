@@ -1,6 +1,6 @@
 ---
 title: PHY1721 & PHY1731
-summary: Principes de Physique I
+summary: Cinématique, Dynamique et Thermodynamique
 date: 2023-10-24
 type: docs
 math: false
