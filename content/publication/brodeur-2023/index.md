@@ -41,18 +41,6 @@ tags:
 - exercise stress
 - heat flow
 
-# Schedule page publish date (NOT publication's date).
-# publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-# publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
-# publication_short: In *ICW*
-
 # Summary. An optional shortened abstract.
 summary: Paper that introduces the physical description of entropy in humans
 
