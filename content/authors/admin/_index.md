@@ -64,7 +64,7 @@ education:
   - area: MSc en Sciences des Radiations et Imagerie Biomédicale
     institution: Université de Sherbrooke
     date_start: 2015-05-01
-    date_end: 2011-09-07
+    date_end: 2018-05-01
     summary: |
         Développements expérimentaux pour le calcul des section efficace des dommages à l'ADN par des électrons de basses énergies.
 
@@ -74,8 +74,8 @@ education:
       - Physique médicale
   - area: BSc en Physique
     institution: Université de Montréal
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2011-07-01
+    date_end: 2015-05-01
     summary: |
         Spécialisation en biophysique et physique médicale
       
