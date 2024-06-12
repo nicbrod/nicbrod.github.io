@@ -46,12 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Intérêts:
+interests:
   - Thermodynamique du vivant
   - Origine de la vie
   - Physique médicale
 
-Éducation:
+education:
   - area: PhD en Physique (en cours)
     institution: Université d'Ottawa
     date_start: 2018
