@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nicolas Brodeur (test2)
+title: Nicolas Brodeur
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
