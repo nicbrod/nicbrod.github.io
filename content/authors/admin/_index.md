@@ -46,12 +46,12 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
+Intérêts:
   - Thermodynamique du vivant
   - Origine de la vie
   - Physique médicale
 
-education:
+Parcours scolaire:
   - area: PhD en Physique (en cours)
     institution: Université d'Ottawa
     date_start: 2018-05-01
@@ -77,70 +77,69 @@ education:
         Spécialisation en biophysique et physique médicale
       
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Professeur de physique à temps partiel
+    company_name: Université d'Ottawa
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-09-01
+    date_end: 2023-12-01
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Tâches:
+      - Dispenser les cours à plus de 300 étudiants
+
+  - position: Assistant à l'enseignement en physique
+    company_name: Université d'Ottawa
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-09-01
+    date_end: 2023-05-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Tâches:
+      - Animer les groupes de discussions (DGD).
+      - Correction des devoirs et examens.
+      - Soutien au professeur pour les tâches administratives.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Compétences techniques
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: MATLAB
         description: ''
         percent: 100
+        icon: code-bracket
+      - name: Production audiovisuelle
+        description: ''
+        percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Animation 2D
         description: ''
         percent: 40
-        icon: circle-stack
-  - name: Hobbies
+        icon: camera
+  - name: Intérêts
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Production de contenu numérique
         description: ''
-        percent: 60
+        percent: 100
         icon: person-simple-walk
-      - name: Cats
+      - name: Production de vin et d'hydromel
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Musique
         description: ''
         percent: 80
         icon: camera
 
 languages:
+  - name: Francais
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Espagnol
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -154,24 +153,13 @@ awards:
     icon: coursera
     summary: |
       Petit vidéo de 60 secondes présentant mon projet de recherche.
-  - title: Blockchain Fundamentals
+  - title: Prix de l'assistant d'enseignement de l'année
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+    date: '2022-07-01'
+    awarder: Département de Physique, uOttawa
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      blabla
 ---
 
 ## À propos de moi
