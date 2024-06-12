@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD en Physique (en cours)
     institution: Université d'Ottawa
-    date_start: 2018
-    date_end: 2015
+    date_start: 2018-05-01
+    date_end: 2024-12-10
     summary: |
        Régulation thermodynamique des êtres vivants avec applications cliniques (e.g., cancer, diabètes)
     button:
@@ -63,11 +63,10 @@ education:
       url: 'https://example.com'
   - area: MSc en Sciences des Radiations et Imagerie Biomédicale
     institution: Université de Sherbrooke
-    date_start: 2015
-    date_end: 2011
+    date_start: 2015-05-01
+    date_end: 2011-09-07
     summary: |
-      Développements expérimentaux pour le calcul des section efficace des dommages à l'ADN par des électrons de basses énergies.
-      GPA: 3.8/4.0
+        Développements expérimentaux pour le calcul des section efficace des dommages à l'ADN par des électrons de basses énergies.
 
       Courses included:
       - Radiobiologie moléculaire
@@ -78,7 +77,7 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+        Spécialisation en biophysique et physique médicale
       
 work:
   - position: Director of Cloud Infrastructure
