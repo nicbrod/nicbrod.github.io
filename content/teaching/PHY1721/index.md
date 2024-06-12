@@ -10,3 +10,4 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
+**Bienvenue au cours d'introduction!**
