@@ -181,6 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## À propos de moi
 
 Nicolas Brodeur is currently a PhD candidate in Physics at the University of Ottawa working on the physics of complex living systems with clinical applications for disease and cancer research. M. Brodeur holds a master’s degree in radiation science and biomedical imaging where he studied the interaction of low-energy electrons with DNA for radiotherapy treatments. He is also deeply passionate about teaching and science communication. In his free time, he enjoys playing music, making mead and spending time with his family.
