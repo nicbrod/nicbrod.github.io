@@ -1,5 +1,5 @@
 ---
-title: Grand gagnant du concours uOGRADflix!
+title: 🎉Grand gagnant du concours uOGRADflix!
 summary: Concours de vulgarisation
 date: 2024-06-01
 authors:
