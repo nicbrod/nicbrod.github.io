@@ -1,6 +1,6 @@
 ---
 title: CS Finder
-summary: Analysis for DNA damage cross sections (low eV electrons)
+summary: Analysis for DNA damage cross sections for low-energy electrons
 date: 2018-05-01
 type: docs
 math: false
