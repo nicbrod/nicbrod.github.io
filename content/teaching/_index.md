@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: Mes Cours
+summary: teaching
 type: landing
 
 cascade:
