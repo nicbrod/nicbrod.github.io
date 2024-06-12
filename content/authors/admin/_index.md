@@ -154,13 +154,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: 1iere place au concours de vulgarisation uOGRADflix
+    url: https://www.uottawa.ca/fr/toutes-nouvelles/rendre-recherche-accessible-passionnante-jeune-chercheur-brille-au-concours?fbclid=IwZXh0bgNhZW0CMTAAAR0MTLfSxBYS-Vmrj4AdzPAKKEeOlDAHQInsCf7yzFLDuPY1Yhd5l78z2P4_aem_AdloGFVKewr3BbEavHNrgAyAGWuies9fZL_ZYX2Af8UgLec792-2AVWdzR2Wq_ZX6J4QM3zi5zSxP1ee9CfUXsCC
+    date: '2023-10-31'
+    awarder: University of Ottawa
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      Petit vidéo de 60 secondes présentant mon projet de recherche.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
