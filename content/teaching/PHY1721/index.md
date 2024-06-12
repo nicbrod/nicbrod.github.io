@@ -1,7 +1,7 @@
 ---
 title: PHY1721 & PHY1731
 summary: Cinématique, Dynamique et Thermodynamique
-date: 2023-10-24
+date: 2023-09-01
 type: docs
 math: false
 tags:
