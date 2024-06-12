@@ -41,3 +41,5 @@ tags:
 - exercise stress
 - heat flow
 ---
+# Display in featured widget
+featured: true
