@@ -1,11 +1,11 @@
 ---
-title: HS Lab
-summary: Human Scoville Laboratory
+title: Human Scoville Laboratory
+summary: Analysis of calorimetry data
 date: 2024-06-01
 type: docs
 math: false
 tags:
-  - Analysis of calorimetry data
+  - Software
 # image:
 #  caption: 'Embed rich media such as videos and LaTeX math'
 ---
