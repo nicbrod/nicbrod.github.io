@@ -1,3 +1,4 @@
+<!---
 ---
 title: Learn JavaScript
 summary: Easily learn JavaScript in 10 minutes!
@@ -138,3 +139,4 @@ renders as
 {{< icon name="python" >}} Python
 
 ## Did you find this page helpful? Consider sharing it 🙌
+-->
